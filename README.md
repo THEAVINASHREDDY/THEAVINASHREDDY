@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
 
 ### <div align="center">I'm Avinash Reddy, Student at LPU.. Working on Data Science..!!🪜🪜</div>  
   
 
-- - 👋 Hi, I’m @THEAVINASHREDDY
+-  👋 Hi, I’m @THEAVINASHREDDY
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on REAL WORLD PROBLEMS
@@ -98,7 +98,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 <!---
 THEAVINASHREDDY/THEAVINASHREDDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
