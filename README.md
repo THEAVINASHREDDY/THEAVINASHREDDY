@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Avinash Reddy, Data Scientist Intern @ Blenheim Chalcot.. Working on Data Science..!!🪜🪜</div>  
+### <div align="center">I'm Avinash Reddy, Working on Data Science..!!🪜🪜</div>  
   
 
 -  👋 Hi, I’m @THEAVINASHREDDY
